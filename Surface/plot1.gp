@@ -1,5 +1,5 @@
 set terminal png
-set output "fc_00000000_00000000_ALL_ALL_VI_0_thresholds.1.png"
+set output "fc_00000000_00000000_ALL_06_VI_0_thresholds.1.png"
 set datafile missing "-99"
 set title "Frequency  for Visibility (m)\n   Selection: ALL    104 stations\n  Period: 20211124-20211124\n  Used {06} + 00 03 06" 
 
@@ -14,4 +14,4 @@ set logscale x
  set arrow  2 from  5000.00000,graph 0.05 to  5000.00000,graph 0.01 lt -1 lw 2 
  set arrow  3 from  10000.0000,graph 0.05 to  10000.0000,graph 0.01 lt -1 lw 2 
  set arrow  4 from  20000.0000,graph 0.05 to  20000.0000,graph 0.01 lt -1 lw 2
- plot 'c_00000000_00000000_ALL_ALL_VI_0_REF.scores2' using 2:13 title 'OBS' with linespoints lt 3 lw 2 pt 7,'c_00000000_00000000_ALL_ALL_VI_0_REF.scores2' using 2:14 title 'REF' with linespoints lt 1 lw 2 pt 7,'c_00000000_00000000_ALL_ALL_VI_0_SAR_4_DFS_MTEN.scores2' using 2:14 title 'SAR_4_DFS_MTEN' with linespoints lt 2 lw 2 pt 7
+ plot 'c_00000000_00000000_ALL_06_VI_0_REF.scores2' using 2:13 title 'OBS' with linespoints lt 3 lw 2 pt 7,'c_00000000_00000000_ALL_06_VI_0_REF.scores2' using 2:14 title 'REF' with linespoints lt 1 lw 2 pt 7,'c_00000000_00000000_ALL_06_VI_0_SAR_4_DFS_MTEN.scores2' using 2:14 title 'SAR_4_DFS_MTEN' with linespoints lt 2 lw 2 pt 7

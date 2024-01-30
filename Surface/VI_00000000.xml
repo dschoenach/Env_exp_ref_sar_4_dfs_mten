@@ -13,10 +13,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73325221E-25 </STDV>
+ <STDV>   2.78179965E-25 </STDV>
  <BIAS>   14142.1357     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71122369E-19 </CORR>
+ <CORR>   1.10885422E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        1047 </ID>
@@ -37,10 +37,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   4714.05713     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        1115 </ID>
@@ -61,10 +61,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73325221E-25 </STDV>
+ <STDV>   2.78179965E-25 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>       20046 </ID>
@@ -85,10 +85,10 @@
  <NAME>REF</NAME>
  <NUM>           2 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   15016.7480     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73326798E-25 </CORR>
+ <CORR>   1.10885836E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        1108 </ID>
@@ -109,10 +109,10 @@
  <NAME>REF</NAME>
  <NUM>           2 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73325221E-25 </STDV>
+ <STDV>   2.78179965E-25 </STDV>
  <BIAS>   16000.0000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73326798E-25 </CORR>
+ <CORR>   1.10885836E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        1199 </ID>
@@ -133,10 +133,10 @@
  <NAME>REF</NAME>
  <NUM>           2 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73325221E-25 </STDV>
+ <STDV>   2.78179965E-25 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        1150 </ID>
@@ -157,10 +157,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   8.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        1008 </ID>
@@ -181,10 +181,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   2357.00146     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        1152 </ID>
@@ -205,10 +205,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73325221E-25 </STDV>
+ <STDV>   2.78179965E-25 </STDV>
  <BIAS>   942.914612     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>       20107 </ID>
@@ -229,10 +229,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   18691.7012     </MEAN>
- <STDV>   1.71058056E-19 </STDV>
+ <STDV>   1.10888524E-19 </STDV>
  <BIAS>   22042.5840     </BIAS>
  <RMSE>  0.504094660     </RMSE>
- <CORR>   1.71103137E-19 </CORR>
+ <CORR>   1.10885009E-19 </CORR>
  </EXP>
  <EXP>
  <ID>       22003 </ID>
@@ -253,10 +253,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   34885.4336     </MEAN>
- <STDV>   1.76235586E-19 </STDV>
+ <STDV>   9.63873243E-20 </STDV>
  <BIAS>   23046.7070     </BIAS>
  <RMSE>  0.392493486     </RMSE>
- <CORR>   4.73326798E-25 </CORR>
+ <CORR>   1.10885836E-19 </CORR>
  </EXP>
  <EXP>
  <ID>       22004 </ID>
@@ -277,10 +277,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   11.3137083     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>       22113 </ID>
@@ -301,10 +301,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   34503.1328     </MEAN>
- <STDV>   1.71058056E-19 </STDV>
+ <STDV>   1.10888524E-19 </STDV>
  <BIAS>   15763.7090     </BIAS>
  <RMSE>  0.850439131     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>       22212 </ID>
@@ -325,10 +325,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71057642E-19 </STDV>
+ <STDV>   1.11322587E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71122369E-19 </CORR>
+ <CORR>   1.10885422E-19 </CORR>
  </EXP>
  <EXP>
  <ID>       22028 </ID>
@@ -349,10 +349,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   35427.5000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   18701.0508     </BIAS>
  <RMSE>  0.499999940     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>       22106 </ID>
@@ -373,10 +373,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   35692.7344     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73326798E-25 </CORR>
+ <CORR>   1.10885836E-19 </CORR>
  </EXP>
  <EXP>
  <ID>       20744 </ID>
@@ -397,10 +397,10 @@
  <NAME>REF</NAME>
  <NUM>           2 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   25000.0000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        1114 </ID>
@@ -421,10 +421,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73325221E-25 </STDV>
+ <STDV>   2.78179965E-25 </STDV>
  <BIAS>   20140.1738     </BIAS>
  <RMSE>  0.495998919     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        1001 </ID>
@@ -445,10 +445,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   12472.1914     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        1023 </ID>
@@ -469,10 +469,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2267 </ID>
@@ -493,10 +493,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2269 </ID>
@@ -517,10 +517,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2271 </ID>
@@ -541,10 +541,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2282 </ID>
@@ -565,10 +565,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2284 </ID>
@@ -589,10 +589,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   7071.06787     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2286 </ID>
@@ -613,10 +613,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2287 </ID>
@@ -637,10 +637,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2293 </ID>
@@ -661,10 +661,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2297 </ID>
@@ -685,10 +685,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   13392.6035     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2013 </ID>
@@ -709,10 +709,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   34674.3008     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   8860.14258     </BIAS>
  <RMSE>   1.00000012     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2019 </ID>
@@ -733,10 +733,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   14226.9893     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2024 </ID>
@@ -757,10 +757,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   11587.1240     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2031 </ID>
@@ -781,10 +781,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2036 </ID>
@@ -805,10 +805,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2038 </ID>
@@ -829,10 +829,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2044 </ID>
@@ -853,10 +853,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2049 </ID>
@@ -877,10 +877,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2055 </ID>
@@ -901,10 +901,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   18257.4980     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2064 </ID>
@@ -925,10 +925,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   3436.53906     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2072 </ID>
@@ -949,10 +949,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   1754.24512     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2081 </ID>
@@ -973,10 +973,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   7750.44824     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2095 </ID>
@@ -997,10 +997,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   15556.3496     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2101 </ID>
@@ -1021,10 +1021,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2110 </ID>
@@ -1045,10 +1045,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2119 </ID>
@@ -1069,10 +1069,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   4252.07031     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2121 </ID>
@@ -1093,10 +1093,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   8009.20215     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2124 </ID>
@@ -1117,10 +1117,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   2027.04041     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2126 </ID>
@@ -1141,10 +1141,10 @@
  <NAME>REF</NAME>
  <NUM>           2 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2135 </ID>
@@ -1165,10 +1165,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   2357.02441     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2141 </ID>
@@ -1189,10 +1189,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2147 </ID>
@@ -1213,10 +1213,10 @@
  <NAME>REF</NAME>
  <NUM>           2 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2149 </ID>
@@ -1237,10 +1237,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2151 </ID>
@@ -1261,10 +1261,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   13123.3457     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2154 </ID>
@@ -1285,10 +1285,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2161 </ID>
@@ -1309,10 +1309,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2171 </ID>
@@ -1333,10 +1333,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2173 </ID>
@@ -1357,10 +1357,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   11308.9971     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2174 </ID>
@@ -1381,10 +1381,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2176 </ID>
@@ -1405,10 +1405,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   16428.4492     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2181 </ID>
@@ -1429,10 +1429,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2184 </ID>
@@ -1453,10 +1453,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   8.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2186 </ID>
@@ -1477,10 +1477,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2188 </ID>
@@ -1501,10 +1501,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2191 </ID>
@@ -1525,10 +1525,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   4763.00342     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2197 </ID>
@@ -1549,10 +1549,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2199 </ID>
@@ -1573,10 +1573,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   34159.7344     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   22186.8906     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2230 </ID>
@@ -1597,10 +1597,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   18245.0352     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   19353.2793     </BIAS>
  <RMSE>  0.502261758     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2236 </ID>
@@ -1621,10 +1621,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   34757.0352     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   21262.9023     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2242 </ID>
@@ -1645,10 +1645,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2245 </ID>
@@ -1669,10 +1669,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   36314.8672     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   18909.9805     </BIAS>
  <RMSE> -0.500010192     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2254 </ID>
@@ -1693,10 +1693,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   35418.7344     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   19619.1035     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2260 </ID>
@@ -1717,10 +1717,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   22716.9844     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2261 </ID>
@@ -1741,10 +1741,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2263 </ID>
@@ -1765,10 +1765,10 @@
  <NAME>REF</NAME>
  <NUM>           2 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2265 </ID>
@@ -1789,10 +1789,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   3479.30737     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   11277.8271     </BIAS>
  <RMSE> -0.766704082     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2219 </ID>
@@ -1813,10 +1813,10 @@
  <NAME>REF</NAME>
  <NUM>           2 </NUM>
  <MEAN>   3494.80078     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   502.155365     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2243 </ID>
@@ -1837,10 +1837,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   20753.6680     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   15836.3086     </BIAS>
  <RMSE>  0.999771297     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        1062 </ID>
@@ -1861,10 +1861,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   2828.42725     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        1028 </ID>
@@ -1885,10 +1885,10 @@
  <NAME>REF</NAME>
  <NUM>           2 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   25000.0000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        1065 </ID>
@@ -1909,10 +1909,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2862 </ID>
@@ -1933,10 +1933,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   20299.5000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   20398.9414     </BIAS>
  <RMSE>  0.719340205     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2807 </ID>
@@ -1957,10 +1957,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   4087.07715     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2880 </ID>
@@ -1981,10 +1981,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   6755.22852     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2844 </ID>
@@ -2005,10 +2005,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   1301.07654     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2845 </ID>
@@ -2029,10 +2029,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   6457.12646     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2836 </ID>
@@ -2053,10 +2053,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   16763.1445     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71057642E-19 </CORR>
+ <CORR>   1.11322587E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2814 </ID>
@@ -2077,10 +2077,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   35187.7656     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   16370.9414     </BIAS>
  <RMSE>  0.910713494     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2849 </ID>
@@ -2101,10 +2101,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   34783.9023     </MEAN>
- <STDV>   4.73326798E-25 </STDV>
+ <STDV>   1.10885836E-19 </STDV>
  <BIAS>   21757.4043     </BIAS>
  <RMSE> -0.500030458     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2801 </ID>
@@ -2125,10 +2125,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   34955.3359     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   18393.4141     </BIAS>
  <RMSE>  0.626148462     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2805 </ID>
@@ -2149,10 +2149,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   19481.0000     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   1147.79749     </BIAS>
  <RMSE>  0.999879241     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2835 </ID>
@@ -2173,10 +2173,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71058056E-19 </STDV>
+ <STDV>   1.10888524E-19 </STDV>
  <BIAS>   10341.5938     </BIAS>
  <RMSE>  0.866025209     </RMSE>
- <CORR>   1.71103137E-19 </CORR>
+ <CORR>   1.10885009E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        1026 </ID>
@@ -2197,10 +2197,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73325221E-25 </STDV>
+ <STDV>   2.78179965E-25 </STDV>
  <BIAS>   13063.0928     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.76235586E-19 </CORR>
+ <CORR>   9.63873243E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2847 </ID>
@@ -2221,10 +2221,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73325221E-25 </STDV>
+ <STDV>   2.78179965E-25 </STDV>
  <BIAS>   11995.8066     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2821 </ID>
@@ -2245,10 +2245,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71057642E-19 </STDV>
+ <STDV>   1.11322587E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71122369E-19 </CORR>
+ <CORR>   1.10885422E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2717 </ID>
@@ -2269,10 +2269,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   4.73325221E-25 </STDV>
+ <STDV>   2.78179965E-25 </STDV>
  <BIAS>   7282.54053     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71103137E-19 </CORR>
+ <CORR>   1.10885009E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2726 </ID>
@@ -2293,10 +2293,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   32099.3027     </MEAN>
- <STDV>   1.71122369E-19 </STDV>
+ <STDV>   1.10885422E-19 </STDV>
  <BIAS>   18443.7598     </BIAS>
  <RMSE>  0.452078253     </RMSE>
- <CORR>   1.71058056E-19 </CORR>
+ <CORR>   1.10888524E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2857 </ID>
@@ -2317,10 +2317,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   35361.1680     </MEAN>
- <STDV>   4.73325221E-25 </STDV>
+ <STDV>   2.78179965E-25 </STDV>
  <BIAS>   12578.0928     </BIAS>
  <RMSE>  0.983425081     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2702 </ID>
@@ -2341,10 +2341,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.76235586E-19 </STDV>
+ <STDV>   9.63873243E-20 </STDV>
  <BIAS>   5560.29639     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71122369E-19 </CORR>
+ <CORR>   1.10885422E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2864 </ID>
@@ -2365,10 +2365,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71057642E-19 </STDV>
+ <STDV>   1.11322587E-19 </STDV>
  <BIAS>   1249.22290     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        2881 </ID>
@@ -2389,10 +2389,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   30154.1719     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73325221E-25 </CORR>
+ <CORR>   2.78179965E-25 </CORR>
  </EXP>
  <EXP>
  <ID>        2720 </ID>
@@ -2413,10 +2413,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71057642E-19 </STDV>
+ <STDV>   1.11322587E-19 </STDV>
  <BIAS>   15224.4082     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73326798E-25 </CORR>
+ <CORR>   1.10885836E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        2816 </ID>
@@ -2437,10 +2437,10 @@
  <NAME>REF</NAME>
  <NUM>           3 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71057642E-19 </STDV>
+ <STDV>   1.11322587E-19 </STDV>
  <BIAS>   3299.84253     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   1.71122369E-19 </CORR>
+ <CORR>   1.10885422E-19 </CORR>
  </EXP>
  <EXP>
  <ID>        1003 </ID>
@@ -2461,10 +2461,10 @@
  <NAME>REF</NAME>
  <NUM>           2 </NUM>
  <MEAN>   50000.0000     </MEAN>
- <STDV>   1.71103137E-19 </STDV>
+ <STDV>   1.10885009E-19 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.73328376E-25 </CORR>
+ <CORR>   9.64312682E-20 </CORR>
  </EXP>
  <EXP>
  <ID>        1007 </ID>

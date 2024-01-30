@@ -20,7 +20,7 @@ v[5] =v[5].reverse()
 t[5] =v[5]
 v[6] =['classes','thresholds']
 t[6] =v[6]
-v[7] =['ALL'] ;
+v[7] =['06'] ;
 t[7] = v[7] ;
 
 spec_name =[0,1,2,3,7,4,5,6]
